@@ -1,0 +1,174 @@
+Bloom's Taxonomy is a comprehensive, hierarchical framework developed by Benjamin Bloom and his colleagues in 1956 to classify educational goals and objectives. It is widely used by educators to structure curricula, plan lessons, and design assessments, ensuring that learning progresses from foundational skills to higher-order thinking. The framework is divided into three primary domains of learning: cognitive (thinking/knowledge), affective (feeling/attitude), and psychomotor (doing/physical skills). 
+The Cognitive Domain (Thinking)
+The cognitive domain, the most prominent part of the taxonomy, deals with intellectual skills and knowledge acquisition. It was revised in 2001 by Lorin Anderson and David Krathwohl, changing the original nouns to action verbs and reordering the top two levels to better reflect active learning. 
+Original (1956) vs. Revised (2001)
+Original Level 	Revised Level	Description
+1. Knowledge	Remembering	Recalling facts, terms, and basic concepts.
+2. Comprehension	Understanding	Explaining ideas or concepts; constructing meaning.
+3. Application	Applying	Using knowledge in new or real-world situations.
+4. Analysis	Analyzing	Breaking down information to understand relationships and structure.
+5. Synthesis	Creating	Putting elements together to form a new whole or original work.
+6. Evaluation	Evaluating	Making judgments based on criteria and standards.
+Detailed Breakdown of Revised Cognitive Levels:
+Remembering: This foundational level involves retrieving relevant knowledge from long-term memory. It requires no deep understanding, only recall or recognition.
+Action Verbs: define, list, name, recall, recognize, recite, match.
+Example Objective: "By the end of the lesson, students will be able to list the six levels of Bloom's Taxonomy".
+Understanding: At this level, the learner can grasp the meaning of information. They can interpret, summarize, or explain concepts in their own words.
+Action Verbs: explain, summarize, paraphrase, describe, interpret, classify, compare.
+Example Objective: "Students will be able to explain the difference between the original and revised taxonomies".
+Applying: This involves using the learned material in a new, practical scenario or situation. It is about executing a procedure.
+Action Verbs: use, demonstrate, solve, implement, calculate, operate.
+Example Objective: "Students will be able to calculate the area of a triangle using the learned formula".
+Analyzing: This skill requires breaking material into constituent parts and determining how the parts relate to one another or to an overall structure or purpose.
+Action Verbs: analyze, compare, contrast, differentiate, examine, investigate, categorize.
+Example Objective: "Students will be able to analyze the factors that led to the decline of the Roman Empire".
+Evaluating: This level focuses on making judgments and critiques based on specific criteria and standards. It involves assessing the value of ideas or materials.
+Action Verbs: evaluate, judge, critique, assess, defend, argue, recommend.
+Example Objective: "Students will be able to evaluate the effectiveness of a proposed city development plan".
+Creating: The highest level in the revised taxonomy, it involves putting elements together to form a new functional whole, plan, or original product. It emphasizes innovation and synthesis.
+Action Verbs: create, design, develop, plan, compose, construct, produce, invent.
+Example Objective: "Students will be able to design a new marketing campaign for a fictional product". 
+The Affective Domain (Feeling)
+The affective domain, detailed by Bloom's colleague David Krathwohl in 1964, addresses the emotional side of learning, focusing on attitudes, values, feelings, and emotions. It moves from basic awareness to complex internal characterization. 
+Receiving: The learner's sensitivity to the existence of stimuli (e.g., being willing to listen, paying attention).
+Example: Listening to a presentation with interest and taking notes.
+Responding: Active participation in the learning process; reacting to a phenomenon.
+Example: Participating actively in a group discussion.
+Valuing: Attaching a value or worth to a phenomenon, object, or piece of information; showing commitment.
+Example: Proposing a plan for social improvement based on personal beliefs.
+Organizing: Organizing values into a priority system; resolving conflicts between values, and integrating them into one's personal schema.
+Example: Prioritizing a work-life balance and advocating for it in the workplace.
+Characterizing by Value Set: Internalizing the value system to the point where it consistently controls one's behavior and is pervasive and predictable.
+Example: Consistently displaying commitment to ethical practice in all personal and professional endeavors. 
+The Psychomotor Domain (Doing)
+This domain focuses on physical skills, motor functions, and coordination. Bloom and his original team did not fully elaborate on this domain, but subsequent educators, such as Elizabeth Simpson (1972), developed a widely used taxonomy for it. 
+Perception: Using sensory cues to guide motor activities (e.g., using sensory feedback to adjust a tool).
+Set: Demonstrating a readiness to act, including mental, physical, and emotional preparedness.
+Guided Response: Early stages of learning a complex skill that includes imitation and trial and error, often with guidance.
+Mechanism: Performing a task with some confidence and proficiency, where learned movements are becoming habitual.
+Complex Overt Response: Skillful and accurate performance of complex movement patterns, done with high proficiency and coordination.
+Adaptation: The ability to modify movement patterns and skills to fit special circumstances or new situations.
+Origination: Creating new movement patterns or procedures to solve a novel problem or situation. 
+Practical Application
+Educators use Bloom's Taxonomy as a roadmap to design instruction that progressively challenges students to think more critically and deeply, rather than just relying on rote memorization. By aligning learning objectives and assessments with the appropriate level, instructors can ensure clarity in their goals and promote the development of essential, real-world skills. For a practical guide on using action verbs in objective writing, resources such as the guide available from the University of Arkansas can be helpful.
+Mathematical fallacies are errors in reasoning or calculation that lead to a seemingly plausible but ultimately incorrect conclusion, often an absurd one like proving \(1=2\). The error is usually subtle and involves violating a fundamental rule or assumption of mathematics. Here is a deep dive into some common types of mathematical fallacies with examples. 1. Division by Zero Dividing by zero is the most famous mathematical fallacy because the operation is undefined. Any argument that involves division by zero is invalid. Example: Proving that \(1=2\) Let \(a\) and \(b\) be equal non-zero quantities:\(a=b\)Multiply both sides by \(a\):\(a^{2}=ab\)Subtract \(b^{2}\) from both sides:\(a^{2}-b^{2}=ab-b^{2}\)Factor both sides (left side is a difference of squares; right side factors out \(b\)):\((a-b)(a+b)=b(a-b)\)Divide both sides by \((a-b)\):\(a+b=b\)Since we started with \(a=b\), we can substitute \(a\) for \(b\) on the left side:\(b+b=b\)Which simplifies to:\(2b=b\)Divide both sides by \(b\) (which is non-zero by initial assumption):\(2=1\) The Fallacy: The error occurs in step 5. The premise stated that \(a=b\), which means \(a-b=0\). The step from line 4 to line 5 involves dividing by \((a-b)\), which is division by zero, a forbidden operation that invalidates the proof. 2. Incorrect Handling of Multivalued Functions (Square Roots) Many mathematical functions, particularly inverse functions like square roots, have multiple possible outputs. The symbol \(\sqrt{x}\) conventionally denotes the principal (positive) square root, but the equation \(x^{2}=y^{2}\) implies that \(x=\pm y\), not just \(x=y\). Example: Proving that \(4=5\) Start with a true statement:\(-20=-20\)Rewrite both sides:\(16-36=25-45\)Add \((9/2)^{2}\) (or \(20.25\)) to both sides to complete the square:\(16-36+20.25=25-45+20.25\)Rewrite the expressions as squared terms:\((4-4.5)^{2}=(5-4.5)^{2}\)Take the square root of both sides:\(\sqrt{(4-4.5)^{2}}=\sqrt{(5-4.5)^{2}}\)Simplify the square roots:\(4-4.5=5-4.5\)Add \(4.5\) to both sides:\(4=5\) The Fallacy: The error is in step 5, taking the square root of both sides. The equation \((4-4.5)^{2}=(5-4.5)^{2}\) is correct, as both sides equal \(0.25\). However, it implies \(\pm (4-4.5)=\pm (5-4.5)\). By assuming the positive root for both sides in step 6, the fallacy is committed. The correct step is \(-(4-4.5)=(5-4.5)\), which simplifies correctly to \(0.5=0.5\) (or \(5=5\)). 3. Fallacies in Proof by Induction Proof by induction requires a solid base case and a correct inductive step (showing that if the statement holds for \(N\), it also holds for \(N+1\)). Fallacies often stem from the inductive step failing for the initial value of \(N\). Example: Proving all horses are the same color Base Case: A group of 1 horse is all the same color. This is true.Inductive Step: Assume that any group of \(N\) horses is all the same color.Consider a group of \(N+1\) horses. Remove one horse to get a group of \(N\) horses. By the assumption, they are all the same color.Put the first horse back and remove a different horse. This is another group of \(N\) horses, so they are all the same color.Since the two groups overlap (they have \(N-1\) horses in common), all \(N+1\) horses must be the same color.Thus, if any \(N\) horses are the same color, any \(N+1\) horses are the same color. By induction, all horses are the same color. The Fallacy: The error is in step 5, for the transition from \(N=1\) to \(N=2\). The two groups of 1 horse each have \(N-1=0\) horses in common. The shared horses (of which there are none) cannot provide the link to prove that the entire group of 2 horses is the same color. The induction works for any \(N>1\), but fails for \(N=1\). 4. Geometric Fallacies These rely on flawed diagrams and implicit, incorrect assumptions about geometric properties (e.g., a point lying inside or outside a figure). Example: Proving all triangles are isoscelesA purported proof uses a misleading diagram where the intersection of the angle bisector and the perpendicular bisector is drawn inside the triangle, when it actually lies on the triangle's circumcircle for non-isosceles triangles. This allows for an invalid deduction about the lengths of sides, leading to the false conclusion that all triangles have two equal sides. The core issue is using an imprecise drawing as a substitute for rigorous proof
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
