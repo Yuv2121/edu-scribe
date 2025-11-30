@@ -107,6 +107,5 @@ This project was built for the Google AI Agents Intensive Capstone. It demonstra
 
 ✅ Context & State: Passing information (response_text, diagnosis) between agents via session state.
 
----
-If anything is unclear or you want me to generate the ZIP/patch now, I can create it and give you the download path. Good luck with the competition!
+
 
