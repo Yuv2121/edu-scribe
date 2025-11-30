@@ -39,6 +39,7 @@ The project follows a **Sequential Workflow** pattern. Data flows in one directi
 3.  **RAG Lookup:** `CognitiveAnalysisAgent` analyzes the text and calls `pedagogy_search`. This performs a **TF-IDF similarity search** against a local corpus of pedagogical theory (`corpus/pedagogy.txt`).
 4.  **Output:** `SynthesisAgent` combines the student data + the pedagogical theory to generate the final report.
 
+
 ---
 
 ## 🛠️ Setup & Installation
@@ -106,6 +107,7 @@ This project was built for the Google AI Agents Intensive Capstone. It demonstra
 ✅ RAG (Retrieval Augmented Generation): Building a custom vector search engine for pedagogical context.
 
 ✅ Context & State: Passing information (response_text, diagnosis) between agents via session state.
+
 
 
 
