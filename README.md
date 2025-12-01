@@ -76,6 +76,7 @@ This project was built to demonstrate mastery of the ADK ecosystem. We explicitl
 | **Core Concept 6: Observability** | ✅ | Our sequential, state-passing architecture makes the agent's reasoning fully traceable in the `adk web` UI. |
 | **Bonus 1: Use of Gemini** | ✅ | The core `CognitiveAnalysisAgent` is powered by the latest **Gemini model** for maximum reasoning quality. |
 | **Bonus 2: Agent Deployment** | ✅ | The entire system is deployed as a public endpoint on Google Cloud Run using `adk deploy cloud_run`. |
+| **Bonus 3: YouTube Video** | ✅ | A 3-minute demo video is linked in the submission. |
 
 
 ## 🛠️ Setup & Installation
@@ -143,6 +144,7 @@ This project was built for the Google AI Agents Intensive Capstone. It demonstra
 ✅ RAG (Retrieval Augmented Generation): Building a custom vector search engine for pedagogical context.
 
 ✅ Context & State: Passing information (response_text, diagnosis) between agents via session state.
+
 
 
 
