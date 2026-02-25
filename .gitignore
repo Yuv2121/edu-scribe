@@ -1,14 +1,5 @@
-# Python cache files
+.gitignore
+
+# Compiled Python files
+*.pyc
 __pycache__/
-*.py[cod]
-
-# Environment / secrets
-.env
-
-# VSCode
-.vscode/
-
-# Byte-compiled / distribution
-*.egg-info/
-dist/
-build/
