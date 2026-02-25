@@ -1,0 +1,16 @@
+*.pyc
+__pycache__
+.env
+.env.local
+.env.*.local
+node_modules
+.git
+.gitignore
+README.md
+test_agent.py
+run_terminal.py
+run_with_env.py
+student_data.csv
+pedagogy.txt
+*.md
+.vercel
