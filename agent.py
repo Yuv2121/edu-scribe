@@ -9,7 +9,7 @@ except Exception:
 from tools import dataset_loader, pedagogy_search
 
 # Load API Key
-api_key = os.getenv("GOOGLE_API_KEY")
+api_key = os.getenv("AIzaSyDaBSRjltGZljbXHYPQkBL4r1jcmtmP_KI")
 # Configure the Model: use a currently supported text-only Gemini Flash model
 # (listed by the GenAI API). Using the 'models/...' canonical name avoids
 # version mismatch errors like the NOT_FOUND seen with older model ids.
