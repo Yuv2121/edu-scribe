@@ -1,9 +1,21 @@
 {
-  // Updated modern Vercel project settings
+  "version": 2,
+  "env": {
+    "GOOGLE_API_KEY": "@GOOGLE_API_KEY"
+  },
+  "functions": {
+    "api/**/*.py": {
+      "runtime": "python3.11"
+    }
+  },
   "routes": [
     {
+      "src": "/api/(.*)",
+      "dest": "/api/index.py"
+    },
+    {
       "src": "/(.*)",
-      "dest": "index.html"
+      "dest": "/public/$1"
     }
   ]
 }
